@@ -1,3 +1,5 @@
+
+
 function envoyer(){
 
 let point = 0;    
@@ -30,7 +32,7 @@ else {
     resultat.textContent = `Ton résultat est de ${point} point: Excellent vous êtes un bon membre!`;
     song.play();
 }
-
+    
 }
 
 
